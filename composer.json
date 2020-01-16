@@ -13,7 +13,6 @@
             "email": "rowan@sideclick.co.za"
         }
     ],
-    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
             "Sideclick\\BootstrapModalBundle\\": "src/"
